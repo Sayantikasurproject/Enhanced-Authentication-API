@@ -26,6 +26,7 @@ Define validation functions for user inputs.
 .env:
 Store environment variables.
 
+
 app.js:
 Initialize the Express application, set up middlewares, and import routes.
 
